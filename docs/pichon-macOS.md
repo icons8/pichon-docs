@@ -25,6 +25,8 @@ Here is a short tutorial on how to use our desktop app with icons on macOS.
 
 ## Installation
 
+You can download and install Pichon for macOS from our website or App Store.
+
 Once the app is installed, click the profile button and log in to your Icons8 account. It will sync your subscription properties and Collections with Pichon. You’ll see your Favorites and will be able to access all the paid features available under your subscription plan.
 
 Check out the 'Preferences' menu too – it allows you to switch between themes to make it easy on your eyes, set the start options and choose between simplified or non-simplified SVGs:
