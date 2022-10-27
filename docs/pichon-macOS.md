@@ -35,7 +35,7 @@ Check out the 'Preferences' menu too – it allows you to switch between themes 
 
 ### Search
 
-To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles and then select the right format and size for the download.
+To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once:
 
 ### Collections
 
