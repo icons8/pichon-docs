@@ -21,7 +21,7 @@ page_nav:
 
 # Pichon for macOS
 
-Here is a short tutorial on how to use our desktop app with icons on macOS.
+Here is a tutorial on how to use our desktop app with icons on macOS. You might be a completely new user or on the contrary an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
 
 ## Installation
 
@@ -29,33 +29,35 @@ You can download and install Pichon for macOS from our website or App Store.
 
 Once the app is installed, click the profile button and log in to your Icons8 account. It will sync your subscription properties and Collections with Pichon. You’ll see your Favorites and will be able to access all the paid features available under your subscription plan.
 
-Check out the 'Preferences' menu too – it allows you to switch between themes to make it easy on your eyes, set the start options and choose between simplified or non-simplified SVGs:
+Check out the 'Preferences' menu too – it allows you to switch between themes to make it easy on your eyes. Then set the start options and choose between simplified or non-simplified SVGs, if that's needed:
 
 ## Icons
 
+Pichon has Categories, Styles and Collections. Icons in Categories are sorted by theme, in Style by the style they're drawn in and Collections has all your favourites and downloads, plus you can create your own collections too.
+
 ### Search
 
-To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once:
+To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon just right-click on it.
 
 ### Collections
 
-Right-click on the icon to save it to your hard drive or collections and find icons in the same style:
+Right-clicking on the icon also allows you to find icons in the same style:
 
-You can also add new collections, export and share them – press the 'Create collection' button or right-click a particular collection:
+You can add new collections, export and share them – press the 'Create collection' button or right-click a particular collection:
 
 ### Other features
 
 **Adding assets to editors**
 
-To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it wherever you want, for example, Lunacy:
+To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
 
-**Changing the size of the icons**
+**Changing the size of the icon and format**
 
-**Switching between formats**
+You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
 
-**Recoloring icons**
+**Recolouring icons**
 
-You can recolour icons by clicking on the colour wheel at the right upper corner:
+Recolouring is done by clicking on the colour button at the right upper corner next to the icon style:
 
 ### License
 
@@ -63,7 +65,7 @@ You may use our graphic assets without payment for personal or commercial purpos
 
 ## Illustrations
 
-Pichon also has illustrations – you can switch between types of assets in this tab:
+Pichon also has illustrations – you can access this library by switching between types of assets in this tab:
 
 ### Search
 
@@ -87,7 +89,7 @@ Photos can be sorted by categories and tags. You can also eliminate all photos w
 
 ### Size and format
 
-Click on a photo to to choose its size and format:
+Click on a photo to choose its size and format:
 
 ### License
 
@@ -97,9 +99,9 @@ You may use our graphic assets without payment for personal or commercial purpos
 
 You can start exploring My Images tab by uploading or drag&dropping images from your device:
 
-You can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
+After that you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
 
 Each image is automatically tagged by our AI detectors, but you can also add your own tags.
 
-Organize your images by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
+Organizing images can done by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
 
