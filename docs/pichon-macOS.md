@@ -29,7 +29,15 @@ You can download and install Pichon for macOS from our website or App Store.
 
 Once the app is installed, click the profile button and log in to your Icons8 account. It will sync your subscription properties and Collections with Pichon. You’ll see your Favorites and will be able to access all the paid features available under your subscription plan.
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.1_Profile.png">
+</p>
+
 Check out the 'Preferences' menu too – it allows you to switch between themes to make it easy on your eyes. Then set the start options and choose between simplified or non-simplified SVGs, if that's needed:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.2_Preferences.png">
+</p>
 
 ## Icons
 
@@ -67,6 +75,10 @@ You may use our graphic assets without payment for personal or commercial purpos
 
 Pichon also has illustrations – you can access this library by switching between types of assets in this tab:
 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.3_Assets Tab.png">
+</p>
+
 ### Search
 
 While searching for illustrations you can sort them by categories and style:
@@ -82,6 +94,10 @@ You may use our graphic assets without payment for personal or commercial purpos
 ## Photos
 
 Illustrations from our library can be accessed by switching the asset type in this tab:
+
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.3_Assets Tab.png">
+</p>
 
 ### Search
 
