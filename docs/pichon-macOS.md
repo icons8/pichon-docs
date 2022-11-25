@@ -21,7 +21,7 @@ page_nav:
 
 # Pichon for macOS
 
-This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
+This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer.
 
 ## Installation
 
@@ -41,11 +41,11 @@ Check out the **Preferences** menu too – it allows you to switch between theme
 
 ## Icons
 
-Pichon has **Categories**, **Styles** and **Collections**. Icons in **Categories** are sorted by theme and in **Style** by the style they're drawn in. **Collections** tab has all your favourites and downloaded icons, plus you can create your own collections there too.
+Pichon has **Categories**, **Styles**, and **Collections**. Icons in **Categories** are sorted by theme and in **Style** by the style they're drawn in. **Collections** tab has all your favorites and downloaded icons, plus you can create your own collections there too.
 
 ### Search
 
-To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon just right-click on it.
+To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon, just right-click on it.
 
 ### Collections
 
@@ -63,13 +63,13 @@ To download an icon, sign in, choose its size and format and either save it with
 
 You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
 
-**Recolouring icons**
+**Recoloring icons**
 
-Recolouring is done by clicking on the colour button at the right upper corner next to the icon style:
+Recoloring is done by clicking on the colour button at the right upper corner next to the icon style:
 
 ### License
 
-You may use our graphic assets without payment for personal or commercial purposes but only on the condition that you include a link to Icons8 in your work.
+You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
 
 ## Illustrations
 
@@ -81,7 +81,7 @@ Pichon also has illustrations – you can access this library by switching betwe
 
 ### Search
 
-While searching for illustrations you can sort them by categories and style:
+While searching for illustrations, you can sort them by categories and style:
 
 ### Size and format
 
@@ -89,7 +89,7 @@ Click on an illustration to choose its size and format:
 
 ### License
 
-You may use our graphic assets without payment for personal or commercial purposes but only on the condition that you include a link to Icons8 in your work.
+You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
 
 ## Photos
 
@@ -109,15 +109,15 @@ Click on a photo to choose its size and format:
 
 ### License
 
-You may use our graphic assets without payment for personal or commercial purposes but only on the condition that you include a link to Icons8 in your work.
+You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
 
 ## My Images
 
-You can start exploring My Images tab by uploading or drag&dropping images from your device:
+You can start exploring My Images tab by uploading or drag and dropping images from your device:
 
-After that you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
+After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
 
 Each image is automatically tagged by our AI detectors, but you can also add your own tags.
 
-Organizing images can done by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
+You can organize images by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
 
