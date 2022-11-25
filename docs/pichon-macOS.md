@@ -33,7 +33,7 @@ Once the app is installed, click the profile button and log in to your Icons8 ac
   <img width="auto" height="auto" src="/public/1.1_Profile.png">
 </p>
 
-Check out the 'Preferences' menu too – it allows you to switch between themes to make it easy on your eyes. Then set the start options and choose between simplified or non-simplified SVGs, if that's needed:
+Check out the **Preferences** menu too – it allows you to switch between themes to make it easy on your eyes. Then set the start options and choose between simplified or non-simplified SVGs, if that's needed:
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.2_Preferences.png">
