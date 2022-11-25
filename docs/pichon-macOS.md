@@ -41,7 +41,7 @@ Check out the 'Preferences' menu too – it allows you to switch between themes 
 
 ## Icons
 
-Pichon has Categories, Styles and Collections. Icons in Categories are sorted by theme, in Style by the style they're drawn in and Collections has all your favourites and downloads, plus you can create your own collections too.
+Pichon has **Categories**, **Styles** and **Collections**. Icons in **Categories** are sorted by theme and in **Style** by the style they're drawn in. **Collections** tab has all your favourites and downloaded icons, plus you can create your own collections there too.
 
 ### Search
 
