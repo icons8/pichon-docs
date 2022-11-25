@@ -21,7 +21,7 @@ page_nav:
 
 # Pichon for macOS
 
-Here is a tutorial on how to use our desktop app on macOS. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
+This is an article on how to use our desktop app on macOS. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
 
 ## Installation
 
