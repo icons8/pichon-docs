@@ -21,11 +21,11 @@ page_nav:
 
 # Pichon for macOS
 
-This is an article on how to use our desktop app on macOS. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
+This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out since Pichon has a lot to offer.
 
 ## Installation
 
-You can download and install Pichon for macOS from our website or App Store.
+You can download and install Pichon for macOS from our [website](https://icons8.com/app/macos) or [App Store](https://apps.apple.com/us/app/pichon-by-icons8/id786188363?mt=12).
 
 Once the app is installed, click the profile button and log in to your Icons8 account. It will sync your subscription properties and Collections with Pichon. You’ll see your Favorites and will be able to access all the paid features available under your subscription plan.
 
