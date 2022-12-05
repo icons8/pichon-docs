@@ -47,11 +47,15 @@ Pichon has **Categories**, **Styles**, and **Collections**. Icons in **Categorie
 
 To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon, just right-click on it.
 
-### Collections
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.1.Save.mp4" type="video/mp4"></video>
 
 Right-clicking on the icon also allows you to find icons in the same style:
 
-You can add new collections, export and share them – press the 'Create collection' button or right-click a particular collection:
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.2.Styles.mp4" type="video/mp4"></video>
+
+### Collections
+
+You can also add new collections, export and share them by right-clicking – press the 'Create collection' button or right-click a particular collection:
 
 ### Other features
 
