@@ -30,13 +30,13 @@ You can download and install Pichon for macOS from our [website](https://icons8.
 Once the app is installed, click the profile button and log in to your Icons8 account. It will sync your subscription properties and Collections with Pichon. You’ll see your Favorites and will be able to access all the paid features available under your subscription plan.
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.1_Profile.png">
+  <img width="auto" height="auto" src="/public/1.1.Profile.png">
 </p>
 
 Check out the **Preferences** menu too – it allows you to switch between themes to make it easy on your eyes. Then set the start options and choose between simplified or non-simplified SVGs, if that's needed:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.2_Preferences.png">
+  <img width="auto" height="auto" src="/public/1.2.Preferences.png">
 </p>
 
 ## Icons
@@ -76,7 +76,7 @@ You may use our graphic assets without payment for personal or commercial purpos
 Pichon also has illustrations – you can access this library by switching between types of assets in this tab:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.3_Assets Tab.png">
+  <img width="auto" height="auto" src="/public/1.3.Assets.png">
 </p>
 
 ### Search
