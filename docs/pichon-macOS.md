@@ -100,7 +100,7 @@ You may use our graphic assets without payment for personal or commercial purpos
 Illustrations from our library can be accessed by switching the asset type in this tab:
 
 <p align="center">
-  <img width="auto" height="auto" src="/public/1.3Assets.png">
+  <img width="auto" height="auto" src="/public/1.3.Assets.png">
 </p>
 
 ### Search
