@@ -57,19 +57,27 @@ Right-clicking on the icon also allows you to find icons in the same style:
 
 You can also add new collections, export and share them by right-clicking – press the 'Create collection' button or right-click a particular collection:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.3.Collections.mp4" type="video/mp4"></video>
+
 ### Other features
 
 **Adding assets to editors**
 
 To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.4.Uploading.mp4" type="video/mp4"></video>
+
 **Changing the size of the icon and format**
 
 You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.5.Formatting.mp4" type="video/mp4"></video>
+
 **Recoloring icons**
 
 Recoloring is done by clicking on the colour button at the right upper corner next to the icon style:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.6.Recoloring.mp4" type="video/mp4"></video>
 
 ### License
 
@@ -87,9 +95,13 @@ Pichon also has illustrations – you can access this library by switching betwe
 
 While searching for illustrations, you can sort them by categories and style:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/3.1.Search.mp4" type="video/mp4"></video>
+
 ### Size and format
 
 Click on an illustration to choose its size and format:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/3.2.Formatting.mp4" type="video/mp4"></video>
 
 ### License
 
@@ -107,9 +119,13 @@ Illustrations from our library can be accessed by switching the asset type in th
 
 Photos can be sorted by categories and tags. You can also eliminate all photos with background from your search with the 'No background' toggle:
 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/4.1.Search.mp4" type="video/mp4"></video>
+
 ### Size and format
 
 Click on a photo to choose its size and format:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/4.2.Formatting.mp4" type="video/mp4"></video>
 
 ### License
 
@@ -119,9 +135,15 @@ You may use our graphic assets without payment for personal or commercial purpos
 
 You can start exploring My Images tab by uploading or drag and dropping images from your device:
 
-After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.1.Uploading.mp4" type="video/mp4"></video>
+
+After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.2.Edit.mp4" type="video/mp4"></video> 
 
 Each image is automatically tagged by our AI detectors, but you can also add your own tags.
 
 You can organize images by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.3.Folders.mp4" type="video/mp4"></video>
 
