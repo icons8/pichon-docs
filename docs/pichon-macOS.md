@@ -117,13 +117,13 @@ Illustrations from our library can be accessed by switching the asset type in th
 
 ### Search
 
-Photos can be sorted by categories and tags. You can also eliminate all photos with background from your search with the 'No background' toggle:
+Photos can be sorted either by categories or by tags. You can also eliminate all photos with background from your search with the 'No background' toggle:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/4.1.Search.mp4" type="video/mp4"></video>
 
-### Size and format
+### Size
 
-Click on a photo to choose its size and format:
+Click on a photo to choose its size:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/4.2.Formatting.mp4" type="video/mp4"></video>
 
@@ -137,13 +137,13 @@ You can start exploring My Images tab by uploading or drag and dropping images f
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.1.Uploading.mp4" type="video/mp4"></video>
 
-After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version:
+After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version – all from the tab on the right:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.2.Edit.mp4" type="video/mp4"></video> 
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/1.4.MyImages.png" type="video/mp4"></video> 
 
 Each image is automatically tagged by our AI detectors, but you can also add your own tags.
 
 You can organize images by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.3.Folders.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.2.Folders.mp4" type="video/mp4"></video>
 
