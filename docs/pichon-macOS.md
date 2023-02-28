@@ -67,7 +67,7 @@ To download an icon, sign in, choose its size and format and either save it with
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.4.Uploading.mp4" type="video/mp4"></video>
 
-**Changing the size of the icon and format**
+**Changing icon size and and format**
 
 You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
 
