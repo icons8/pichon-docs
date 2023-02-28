@@ -79,10 +79,6 @@ Recoloring is done by clicking on the colour button at the right upper corner ne
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.6.Recoloring.mp4" type="video/mp4"></video>
 
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
-
 ## Illustrations
 
 Pichon also has illustrations – you can access this library by switching between types of assets in this tab:
@@ -103,10 +99,6 @@ Click on an illustration to choose its size and format:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/3.2.Formatting.mp4" type="video/mp4"></video>
 
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
-
 ## Photos
 
 Illustrations from our library can be accessed by switching the asset type in this tab:
@@ -126,10 +118,6 @@ Photos can be sorted either by categories or by tags. You can also eliminate all
 Click on a photo to choose its size:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/4.2.Formatting.mp4" type="video/mp4"></video>
-
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
 
 ## My Images
 
