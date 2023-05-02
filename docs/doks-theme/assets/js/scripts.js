@@ -175,7 +175,7 @@
 		headings = reduceLevels( headings );
 
 		generateList( headings, true ).appendTo( '.js-sections' );
-		var ghButtonHtml = "<a href='https://github.com/icons8/lunacy-docs' id='sections-button' class='btn btn--dark btn--rounded btn--w-icon btn--github js-affix'><i class='icon icon--github' style='float: left; margin-left: 0px; margin-right: 16px'></i>Suggest Edits</a>";
+		var ghButtonHtml = "<a href='https://github.com/icons8/plugins-docs' id='sections-button' class='btn btn--dark btn--rounded btn--w-icon btn--github js-affix'><i class='icon icon--github' style='float: left; margin-left: 0px; margin-right: 16px'></i>Suggest Edits</a>";
 		var ghButton = $.parseHTML(ghButtonHtml);
 		$('.js-sections').append(ghButton);
 	}
@@ -275,10 +275,14 @@
 			changeHrefOnScroll(href);
 		}
 		if (activeLinkSubMenu) {
-			document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").closest("li").classList.add('active')
-			let href = location.protocol + '//' + location.hostname + (location.port ? ":" + location.port : "") + document.location.pathname + "#" + activeLinkSubMenu.id;
-			changeHrefOnScroll(href);
-			document.querySelector(".js-subheader").innerText = document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").innerText
+			try {
+				document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").closest("li").classList.add('active')
+				let href = location.protocol + '//' + location.hostname + (location.port ? ":" + location.port : "") + document.location.pathname + "#" + activeLinkSubMenu.id;
+				changeHrefOnScroll(href);
+				document.querySelector(".js-subheader").innerText = document.querySelector(".submenu [href*='#" + activeLinkSubMenu.id + "']").innerText
+			} catch (error) {
+				console.log("Can't mark submenu active item")
+			}
 		}
 		
 	})
@@ -328,7 +332,8 @@ function createNavSubMenu() {
 		}
 		let array = []
 		for (let index = 0; index < items.length; index++) {
-			array.push( '<li><a href="#' + items[index].id + '" class="js-smooth-scroll">' + items[index].innerText + '</a></li>' )
+			let customClass = items[index].tagName === 'H2' ? 'header' : ''
+			array.push( '<li><a href="#' + items[index].id + '" class="js-smooth-scroll ' + customClass + '">' + items[index].innerText + '</a></li>' )
 		}
 	
 		return '<ul class="submenu">' + array.join('') + '</ul>';
@@ -389,7 +394,7 @@ function getCurrentNavLink() {
 	
 	for (let index = 0; index < array.length; index++) {
 		const element = array[index];
-		if (element.href == document.location.toString().split("/#")[0] || element.href + "/" == document.location) {
+		if (element.href == document.location.toString().split("/#")[0] || element.href == document.location.toString().split("/#")[0] + "/" || element.href + "/" == document.location) {
 			return element
 		}
 	}
@@ -397,7 +402,7 @@ function getCurrentNavLink() {
 
 function changeHrefOnScroll(href) {
 	let stateObj = { id: "100" };
-	window.history.pushState(stateObj, "", href);
+	// window.history.pushState(stateObj, "", href);
 } 
 
 

@@ -22,6 +22,7 @@
 @import 'tools/lists';
 @import 'tools/responsive-visibility';
 @import 'tools/color';
+@import 'tools/loader';
 
 /* ----- Base ----- */
 @import 'generic/normalize';
@@ -53,6 +54,7 @@
 @import 'components/social-list';
 @import 'components/title-anchor-link';
 @import 'components/simplebar';
+@import 'components/search-bar';
 
 /* ----- Themes ----- */
 @import 'themes/green';

@@ -1,1 +1,1 @@
-# pichon-docs
+# pichon-docs-macos
