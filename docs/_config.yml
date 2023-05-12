@@ -3,7 +3,9 @@ doks:
     color_theme: blue
     micro_nav:
     - title: macOS
-      url: '/'
+      url: '/macOS'
+    - title: Windows
+      url: '/windows'
 
 
     header:
@@ -45,6 +47,6 @@ permalink: /:title/
 
 algolia:
   application_id: E0SRZV1KDE
-  index_name: docs_pichon_macos
+  index_name: docs_pichon
   search_only_api_key: 3c69946746f91017d9d59e85186f93ea
   files_to_exclude: []
