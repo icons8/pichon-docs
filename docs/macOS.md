@@ -45,13 +45,9 @@ Pichon has **Categories**, **Styles**, and **Collections**. Icons in **Categorie
 
 ### Search
 
-To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon, just right-click on it.
+To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon, just right-click on it. Right-clicking on the icon also allows you to find icons in the same style:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.1.Save.mp4" type="video/mp4"></video>
-
-Right-clicking on the icon also allows you to find icons in the same style:
-
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.2.Styles.mp4" type="video/mp4"></video>
 
 ### Collections
 
