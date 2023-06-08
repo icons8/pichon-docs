@@ -59,15 +59,9 @@ You can also add new collections, export and share them by right-clicking – pr
 
 **Adding assets to editors**
 
-To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
+To download an icon, sign in, choose its size and format in the tab on the right and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.4.Uploading.mp4" type="video/mp4"></video>
-
-**Changing icon size and and format**
-
-You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
-
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.5.Formatting.mp4" type="video/mp4"></video>
 
 **Recoloring icons**
 
