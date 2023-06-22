@@ -117,7 +117,9 @@ You can start exploring My Images tab by uploading or drag and dropping images f
 
 After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version – all from the tab on the right:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/1.4.MyImages.png" type="video/mp4"></video> 
+<p align="center">
+  <img width="auto" height="auto" src="/public/1.4.MyImages.png">
+</p>
 
 Each image is automatically tagged by our AI detectors, but you can also add your own tags.
 
