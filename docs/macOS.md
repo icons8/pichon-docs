@@ -4,11 +4,6 @@ layout: default
 keywords:
 comments: false
 
-# Hero section
-title: About Pichon for macOS
-description: Everything you need to know about Pichon for macOS
-icon:
-
 # Micro navigation
 micro_nav: false
 
