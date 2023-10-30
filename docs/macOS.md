@@ -4,6 +4,10 @@ layout: default
 keywords:
 comments: false
 
+# Hero section
+title: Pichon for macOS
+icon: ''
+
 # Micro navigation
 micro_nav: false
 
