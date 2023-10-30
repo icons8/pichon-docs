@@ -13,7 +13,7 @@ page_nav:
         content: System requirements
         url: '/sysreq'
 ---
-## Pichon for masOS
+## Pichon for macOS
 
 This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer.
 
