@@ -17,7 +17,7 @@ page_nav:
         content: System requirements
         url: '/sysreq'
 ---
-This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer. If you're in a rush, We also have [a shorter article](https://intercom.help/icons8-7fb7577e8170/en/articles/6337308-how-to-use-pichon-for-macos) on the use this app.
+This is an article on how to use our **desktop app Pichon on macOS**. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer. If you're in a rush, We also have [a shorter article](https://intercom.help/icons8-7fb7577e8170/en/articles/6337308-how-to-use-pichon-for-macos) on the use of the app.
 
 ## Installation
 
