@@ -123,3 +123,10 @@ You can organize images by adding them to different folders. Folders can be expo
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/5.2.Folders.mp4" type="video/mp4"></video>
 
+### License
+
+There are both free and paid assets in Pichon. Professional users prefer SVG format that provides unlimited scaling and editing. In order to download this format you need one of our subscription plans, you can check them out [here]([https://icons8.com/app/macos](https://icons8.com/pricing).
+
+You can also download and use icons, illustrations and photos without purchasing them if you add attribution. More info on how to do this [in Universal Multimedia License Agreement for Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8).
+
+Don’t forget to add a link if you’re using our free icons.
