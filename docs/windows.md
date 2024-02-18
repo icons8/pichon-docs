@@ -64,6 +64,7 @@ In the top-right corner of the search results you will find the **Recolor** opti
 ### Downloading and exporting
 
 When you select one or several images, a panel with download options will open on the right. Here you will see the title of an asset, name of its style and be able to choose between .PNG, .SVG, .PDF and .ICO formats in several sizes. Here you can also move the icon into a collection or open the style the icon belongs to.
+
 Once you selected the size and format, press the green download button at the bottom and select the folder to save the images to.
 Saving assets can also be done through **File -> Export** menu at the top.
 
