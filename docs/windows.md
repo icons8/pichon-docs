@@ -74,7 +74,10 @@ Saving assets can also be done through **File -> Export** menu at the top.
 #### Collections
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk. These are synced between Icons8.com website and Pichon, so any changes you make on one side will be reflected on the other.
-Right-clicking on a collection will open a context menu, through which you can upload your own vector images into a collection, export it, share it with others, rename and delete it. You can also recolor the whole collection with a color tool the same way you recolor icons in the search results.
+
+Right-clicking on a collection will open a context menu, through which you can upload your own vector images into a collection, export it, share it with others, rename and delete it.
+
+You can also recolor the whole collection with a color tool the same way you recolor icons in the search results.
 
 
 
