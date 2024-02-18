@@ -23,17 +23,18 @@ page_nav:
 
 # Pichon for Windows
 
-This is an article on how to use our **Pichon** desktop app on Windows. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer.
+This is an article on **Pichon**, a lightweight desktop app housing all the graphic assets Icons8 has to offer. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out.
 
 ## Installation and Settings
 
 You can download and install Pichon from our [website](https://icons8.com/app/windows) or [Microsoft Store](https://apps.microsoft.com/store/detail/9NK8T1KSHFFR).
 
-Once the app is installed, launch Pichon, click on the cog button in the top-right corner and choose Account to log in to your Icons8 profile. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan.
+Once the app is installed, launch Pichon and click on the Profile icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
 
-In the **General** tab of the settings you can find Pichon's preferences:
+In the hamburger menu in the top-left corner you can find Pichon's controls and preferences:
 
-* **Dark mode** — lets you switch between light and dark themes to make it easier on the eyes.
+* In **Dark mode** — lets you switch between light and dark themes to make it easier on the eyes.
+* In **Dark mode** — lets you switch between light and dark themes to make it easier on the eyes.
 * **Fix Mode** on Recolor —
 * **Launch with Windows** — Pichon will launch upon logging in to the system.
 * **Show application in the taskbar** — Pichon will be shown in Windows taskbar.
