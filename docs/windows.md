@@ -43,7 +43,9 @@ In the hamburger menu in the top-left corner you can find Pichon's controls and 
 
 ## Browsing
 
-Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. By default, **Collections** include your bookmarked and downloaded icons, but here you can create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics. For Photos and Illustrations only Categories are available.
+Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. By default, **Collections** include your bookmarked and downloaded icons, but here you can create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
+
+For Photos and Illustrations only Categories are available.
 
 ### Search
 
