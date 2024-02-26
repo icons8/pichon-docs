@@ -31,7 +31,7 @@ You can download and install Pichon directly from our [website](https://icons8.c
 
 Once the app is installed, launch Pichon and click on the <img align="center" height="55" src="/public/profile.png"> icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
 
-In the hamburger menu in the top-left corner you can find Pichon's controls and preferences:
+Click on the <img align="center" height="55" src="/public/hamburger.png"> in the top-left corner to access Pichon's controls and preferences:
 
 * Through **File** menu you can import your own vector files or export the selected images into the directory of your choice.
 * Use **Edit** to rename and delete uploaded vectors or search, select and copy images.
