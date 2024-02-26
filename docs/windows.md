@@ -94,6 +94,10 @@ Right-clicking on a collection will open a context menu, through which you can u
 
 You can also recolor the whole collection with a color tool the same way you recolor icons in the search results.
 
+<p align="center">
+  <img width="900" src="/public/collections.png">
+</p>
+
 ## Photos and Illustrations
 
 **Illustrations** in Pichon are divided into Categories and Styles, while for **Photos** only Categories are available.
