@@ -41,6 +41,10 @@ Click on the <img align="center" height="55" src="/public/hamburger.png"> in the
 * **About** section can be used to update Pichon and also includes links to our License documents, support portals and social media.
 * Use **Exit** to close the program.
 
+<p align="center">
+  <img width="600" src="/public/hammenu.png">
+</p>
+
 ## Icons
 
 Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. By default, **Collections** include your bookmarked and downloaded icons, but here you can create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
