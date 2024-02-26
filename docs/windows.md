@@ -29,7 +29,7 @@ This is an article on **Pichon**, a lightweight desktop app housing all the grap
 
 You can download and install Pichon directly from our [website](https://icons8.com/app/windows) or [Microsoft Store](https://apps.microsoft.com/store/detail/9NK8T1KSHFFR).
 
-Once the app is installed, launch Pichon and click on the Profile icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
+Once the app is installed, launch Pichon and click on the <img align="center" height="55" src="/public/profile.png"> icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
 
 In the hamburger menu in the top-left corner you can find Pichon's controls and preferences:
 
