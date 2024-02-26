@@ -23,62 +23,101 @@ page_nav:
 
 # Pichon for Windows
 
-This is an article on how to use our **Pichon** desktop app on Windows. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer.
+This is an article on **Pichon**, a lightweight desktop app housing all the graphic assets Icons8 has to offer: icons, photos and illustrations. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out.
 
 ## Installation and Settings
 
-You can download and install Pichon from our [website](https://icons8.com/app/windows) or [Microsoft Store](https://apps.microsoft.com/store/detail/9NK8T1KSHFFR).
+You can download and install Pichon directly from our [website](https://icons8.com/app/windows) or [Microsoft Store](https://apps.microsoft.com/store/detail/9NK8T1KSHFFR).
 
-Once the app is installed, launch Pichon, click on the cog button in the top-right corner and choose Account to log in to your Icons8 profile. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan.
+Once the app is installed, launch Pichon and click on the <img align="center" height="55" src="/public/profile.png"> icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
 
-In the **General** tab of the settings you can find Pichon's preferences:
+Click on the <img align="center" height="55" src="/public/hamburger.png"> in the top-left corner to access Pichon's controls and preferences:
 
-* **Dark mode** — lets you switch between light and dark themes to make it easier on the eyes.
-* **Fix Mode** on Recolor —
-* **Launch with Windows** — Pichon will launch upon logging in to the system.
-* **Show application in the taskbar** — Pichon will be shown in Windows taskbar.
-* **Always on top** — Makes pichon stay at the top of any opened apps.
-* **Synchronize icons** — 
-* **Use simplified SVG** — Downloaded SVG icons will have a single path. Leave this enabled if you don't plan to edit the icon.
+* Through **File** menu you can import your own vector files or export the selected images into the directory of your choice.
+* Use **Edit** to rename and delete uploaded vectors or search, select and copy images.
+* **Help** section contains links to our knowledge base, support team contacts and your Profile page on Icons8.com.
+* In **Settings** you can see switch between simplified and non-simplified SVGs, get a subscription and view your credit count.
+* Use **Theme** to switch between light and dark modes and make it easier on the eyes.
+* **About** section can be used to update Pichon and also includes links to our License documents, support portals and social media.
+* Use **Exit** to close the program.
 
-Use **Updates** tab to update Pichon, go to Icons8.com or check out our FAQ.
+<p align="center">
+  <img width="600" src="/public/hammenu.png">
+</p>
 
-## Browsing
+## Icons
 
-Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. Clicking on a particular tab will open and close it. **Collections** include your favorites and downloaded icons and allows you to create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
+Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. By default, **Collections** include your bookmarked and downloaded icons, but here you can create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
+
+<p align="center">
+  <img width="900" src="/public/browse.png">
+</p>
+
+### Search and functionality
+
+To find an icon use the search bar at the top. By default, the search results will include icons from across all styles, but you can limit the search to any particular style we have.
+
+Right-clicking on an image will open the context menu with several options:
+
+* Use **Save As** to download the image(s) in the format and size selected in the rightmost panel.
+* **Search in this Style** opens the page of the Style the icon belongs to.
+* **Add to Collection** lets you quickly send icon(s) to a collection. You can also drag and drop the images into any collection you have.
+* **Quick look** opens a larger preview of the selected image.
+
+<p align="center">
+  <img width="600" src="/public/rmb.png">
+</p>
+
+In the top-right corner of the search results you will find the **Recolor** option, which lets you set the icon and background colors. Here you can use the colorpicker, paste a HEX code or choose a color from the preset palette. Please note that only monochrome native Icons8 icons can be recolored this way. Colored icons and icons created by third-party authors don't support this feature.
+
+<p align="center">
+  <img width="600" src="/public/recolor.png">
+</p>
+
+### Downloading and exporting
+
+When you select one or several images, a panel with download options will open on the right. Here you will see the title of an asset, name of its style and be able to choose between .PNG, .SVG, .PDF and .ICO formats in several sizes. Here you can also move the icon into a collection or open the style the icon belongs to.
+
+Once you selected the size and format, press the green download button at the bottom and select the folder to save the images to.
+Saving assets can also be done through **File -> Export** menu at the top.
+
+<p align="center">
+  <img width="600" src="/public/pichondownload.png">
+</p>
+
+
+#### Collections
+
+Collections let you organize your icons, sort them by projects, recolor and download them in bulk. These are synced between Icons8.com website and Pichon, so any changes you make on one side will be reflected on the other.
+
+Right-clicking on a collection will open a context menu, through which you can upload your own vector images into a collection, export it, share it with others, rename and delete it.
+
+You can also recolor the whole collection with a color tool the same way you recolor icons in the search results.
+
+<p align="center">
+  <img width="900" src="/public/collections.png">
+</p>
+
+## Photos and Illustrations
+
+**Illustrations** in Pichon are divided into Categories and Styles, while for **Photos** only Categories are available.
 
 ### Search
 
-To find an icon, type in some definitive word into the search bar.  You can choose specific styles or check out icons in all styles at once. To save an icon, just right-click on it.
+Searching for photos or illustrations is the same as searching for icons. By typing a keywoard into the search bar, you will get results images from across all categories by default. While looking for photos, you may select one of the several available categories in the left-side panel. The same goes for illustrations, but here you can also choose a style:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.1.Save.mp4" type="video/mp4"></video>
+<p align="center">
+  <img width="900" src="/public/illustrations.png">
+</p>
 
-Right-clicking on the icon also allows you to find icons in the same style:
+In these two sections the context menu on right click has two options:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.2.Styles.mp4" type="video/mp4"></video>
+* **Save As** for saving the image(s) in the format and size selected in the rightmost panel.
+* **Quick look** to open a larger preview of the selected image.
 
-### Collections
+### Downloading and exporting
 
-You can also add new collections, export and share them by right-clicking – press the 'Create collection' button or right-click a particular collection:
+When you select one or several images, a panel with download options will open on the right. Here you will see the title of an imagea and the name of its style (for illustrations). Photos and illustrations can be downloaded in .PNG format in several sizes.
 
-### Other features
-
-**Adding assets to editors**
-
-To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
-
-**Adding your own icons to a collection**
-
-You can upload your own icons to Pichon by dragging them onto an active collection area from the Explorer.
-
-**Changing the size of the icon and format**
-
-All icons will be downloaded in the format and size currently selected in the top-right dropdown menu.
-
-**Recoloring icons**
-
-Recoloring is done by clicking on the color wheel in the top-right corner of Pichon.
-
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
+Once you selected the size, press the green download button at the bottom and select the folder to save the images to.
+Saving assets can also be done through **File -> Export** menu at the top.
