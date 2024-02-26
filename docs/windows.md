@@ -60,6 +60,9 @@ Right-clicking on an image will open the context menu with several options:
 * **Add to Collection** lets you quickly send icon(s) to a collection. You can also drag and drop the images into any collection you have.
 * **Quick look** opens a larger preview of the selected image.
 
+<p align="center">
+  <img width="600" src="/public/rmb.png">
+</p>
 
 In the top-right corner of the search results you will find the **Recolor** option, which lets you set the icon and background colors. Here you can use the colorpicker, paste a HEX code or choose a color from the preset palette. Please note that only monochrome native Icons8 icons can be recolored this way. Colored icons and icons created by third-party authors don't support this feature.
 
