@@ -48,7 +48,6 @@ Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**
 ### Search and functionality
 
 To find an icon use the search bar at the top. By default, the search results will include icons from across all styles, but you can limit the search to any particular style we have.
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.1.Save.mp4" type="video/mp4"></video>
 
 Right-clicking on an image will open the context menu with several options:
 
@@ -57,7 +56,6 @@ Right-clicking on an image will open the context menu with several options:
 * **Add to Collection** lets you quickly send icon(s) to a collection. You can also drag and drop the images into any collection you have.
 * **Quick look** opens a larger preview of the selected image.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/2.2.Styles.mp4" type="video/mp4"></video>
 
 In the top-right corner of the search results you will find the **Recolor** option, which lets you set the icon and background colors. Here you can use the colorpicker, paste a HEX code or choose a color from the preset palette. Please note that only monochrome native Icons8 icons can be recolored this way. Colored icons and icons created by third-party authors don't support this feature.
 
@@ -79,7 +77,7 @@ You can also recolor the whole collection with a color tool the same way you rec
 
 ## Photos and Illustrations
 
-For **Photos** and **Illustrations** only Categories are available.
+**Illustrations** in Pichon are divided into Categories and Styles, while for **Photos** only Categories are available.
 
 ### Search
 
