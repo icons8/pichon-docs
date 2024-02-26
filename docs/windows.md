@@ -78,27 +78,3 @@ Collections let you organize your icons, sort them by projects, recolor and down
 Right-clicking on a collection will open a context menu, through which you can upload your own vector images into a collection, export it, share it with others, rename and delete it.
 
 You can also recolor the whole collection with a color tool the same way you recolor icons in the search results.
-
-
-
-## Other features
-
-**Adding assets to editors**
-
-To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
-
-**Adding your own icons to a collection**
-
-You can upload your own icons to Pichon by dragging them onto an active collection area from the Explorer.
-
-**Changing the size of the icon and format**
-
-All icons will be downloaded in the format and size currently selected in the top-right dropdown menu.
-
-**Recoloring icons**
-
-Recoloring is done by clicking on the color wheel in the top-right corner of Pichon.
-
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
