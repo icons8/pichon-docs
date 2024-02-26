@@ -87,7 +87,7 @@ Click on an illustration to choose its size and format:
 
 ## Photos
 
-Illustrations from our library can be accessed by switching the asset type in this tab:
+Photos from our library can be accessed by switching the asset type in this tab:
 
 <p align="center">
   <img width="auto" height="auto" src="/public/1.3.Assets.png">
