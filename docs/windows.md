@@ -42,7 +42,7 @@ Click on the  <img align="center" height="25" src="/public/hamburger.png">  
 * Use **Exit** to close the program.
 
 <p align="center">
-  <img width="600" src="/public/hammenu.png">
+  <img width="500" src="/public/hammenu.png">
 </p>
 
 ## Icons
@@ -65,7 +65,7 @@ Right-clicking on an image will open the context menu with several options:
 * **Quick look** opens a larger preview of the selected image.
 
 <p align="center">
-  <img width="600" src="/public/rmb.png">
+  <img width="400" src="/public/rmb.png">
 </p>
 
 In the top-right corner of the search results you will find the **Recolor** option, which lets you set the icon and background colors. Here you can use the colorpicker, paste a HEX code or choose a color from the preset palette. Please note that only monochrome native Icons8 icons can be recolored this way. Colored icons and icons created by third-party authors don't support this feature.
