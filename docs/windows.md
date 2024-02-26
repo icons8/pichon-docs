@@ -81,4 +81,16 @@ You can also recolor the whole collection with a color tool the same way you rec
 
 ### Search
 
-To find an icon use the search bar at the top. By default, the search results will include icons from across all styles, but you can limit the search to any particular style we have.
+Searching for photos or illustrations is the same as searching for icons. By typing a keywoard into the search bar, you will get results images from across all categories by default. While looking for photos, you may select one of the several available categories in the left-side panel. The same goes for illustrations, but here you can also choose a style:
+
+In these two sections the context menu on right click has two options:
+
+* **Save As** for saving the image(s) in the format and size selected in the rightmost panel.
+* **Quick look** to open a larger preview of the selected image.
+
+### Downloading and exporting
+
+When you select one or several images, a panel with download options will open on the right. Here you will see the title of an imagea and the name of its style (for illustrations). Photos and illustrations can be downloaded in .PNG format in several sizes.
+
+Once you selected the size, press the green download button at the bottom and select the folder to save the images to.
+Saving assets can also be done through **File -> Export** menu at the top.
