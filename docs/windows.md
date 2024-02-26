@@ -29,9 +29,9 @@ This is an article on **Pichon**, a lightweight desktop app housing all the grap
 
 You can download and install Pichon directly from our [website](https://icons8.com/app/windows) or [Microsoft Store](https://apps.microsoft.com/store/detail/9NK8T1KSHFFR).
 
-Once the app is installed, launch Pichon and click on the <img align="center" height="25" src="/public/profile.png"> icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
+Once the app is installed, launch Pichon and click on the  <img align="center" height="25" src="/public/profile.png">  icon in the top-right corner to log in to your Icons8 account. This will sync your user data with Pichon, letting you access all the paid features available under your subscription plan as well as your collections.
 
-Click on the <img align="center" height="25" src="/public/hamburger.png"> in the top-left corner to access Pichon's controls and preferences:
+Click on the  <img align="center" height="25" src="/public/hamburger.png">  in the top-left corner to access Pichon's controls and preferences:
 
 * Through **File** menu you can import your own vector files or export the selected images into the directory of your choice.
 * Use **Edit** to rename and delete uploaded vectors or search, select and copy images.
