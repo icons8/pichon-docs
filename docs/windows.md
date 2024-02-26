@@ -81,6 +81,10 @@ When you select one or several images, a panel with download options will open o
 Once you selected the size and format, press the green download button at the bottom and select the folder to save the images to.
 Saving assets can also be done through **File -> Export** menu at the top.
 
+<p align="center">
+  <img width="600" src="/public/pichondownload.png">
+</p>
+
 
 #### Collections
 
