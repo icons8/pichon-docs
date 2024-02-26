@@ -49,6 +49,10 @@ Click on the <img align="center" height="55" src="/public/hamburger.png"> in the
 
 Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. By default, **Collections** include your bookmarked and downloaded icons, but here you can create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
 
+<p align="center">
+  <img width="900" src="/public/browse.png">
+</p>
+
 ### Search and functionality
 
 To find an icon use the search bar at the top. By default, the search results will include icons from across all styles, but you can limit the search to any particular style we have.
