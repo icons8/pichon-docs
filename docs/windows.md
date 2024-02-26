@@ -107,7 +107,7 @@ You can also recolor the whole collection with a color tool the same way you rec
 Searching for photos or illustrations is the same as searching for icons. By typing a keywoard into the search bar, you will get results images from across all categories by default. While looking for photos, you may select one of the several available categories in the left-side panel. The same goes for illustrations, but here you can also choose a style:
 
 <p align="center">
-  <img width="900" src="/public/illustrations.png">
+  <img width="900" src="/public/illustrations2.png">
 </p>
 
 In these two sections the context menu on right click has two options:
