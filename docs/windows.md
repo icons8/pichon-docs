@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Pichon for Windows
+title:
 icon: ''
 
 # Micro navigation
