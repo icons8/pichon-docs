@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title:
+title: ''
 icon: ''
 
 # Micro navigation
