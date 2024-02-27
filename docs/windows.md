@@ -116,7 +116,7 @@ In these two sections the context menu on right click has two options:
 
 ### Downloading and exporting
 
-When you select one or several images, a panel with download options will open on the right. Here you will see the title of an imagea and the name of its style (for illustrations). Photos and illustrations can be downloaded in .PNG format in several sizes.
+When you select one or several images, a panel with download options will open on the right. Here you will see the title of an image and the name of its style (for illustrations). Photos and illustrations can be downloaded in .PNG and .SVG (for vector illustrations) format in several sizes.
 
 Once you selected the size, press the green download button at the bottom and select the folder to save the images to.
 Saving assets can also be done through **File -> Export** menu at the top.
